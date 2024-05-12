@@ -5,6 +5,14 @@
 - Routing of App
 - Login Form
 - Sign up Form
+- Form Validation 
+- useRef Hook 
+- Firebase  Setup 
+- Deployinng our App to Production 
+- Create SignUp User Account  
+- Implement SignIn user API 
+- Created Redux Store With userSlice
+ 
 
 # Features 
 -Login / SignUp 
